@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-desktop-first-no-library-no-framework-Bmy14S17M5)
+- Live Site URL: [Live site URL here](https://altera21.github.io/interactive-rating-component-main/)
 
 ### Built with
 
