@@ -82,7 +82,7 @@ body{
     height: 25rem;
 
     position: relative;
-    
+    perspective: 50rem;
 }
 
 .rating-card, .front, .back{
