@@ -159,6 +159,14 @@ h1{
     transform: scale(1.2);
 }
 
+@supports not (backdrop-filter: blur(50px)) {
+    background-color: black;
+}
+
+@supports not (backdrop-filter: blur(10px)) {
+    background-color: gray;
+}
+
 .active{
     background-color: rgb(250, 174, 123, 0.1);
     transition: 1s ease-in-out;
